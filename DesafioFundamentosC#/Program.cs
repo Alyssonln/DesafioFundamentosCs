@@ -2,7 +2,9 @@
 using DesafioFundamentosC_.Desafios.Exercicio02;
 using DesafioFundamentosC_.Desafios.Exercicio03;
 using DesafioFundamentosC_.Desafios.Exercicio04;
+using DesafioFundamentosC_.Desafios.Exercicio05;
 
+Exercicio05.Executar();
 Exercicio01.Executar();
 Exercicio02.Executar();
 Exercicio03.Executar();
